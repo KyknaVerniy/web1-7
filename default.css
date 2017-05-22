@@ -15,6 +15,11 @@
   overflow: hidden;
 }
 
+body{
+  background-color: gray;
+  margin: 48px 0 0 0;
+}
+
 header{
   background-color:
     position: fixed;
