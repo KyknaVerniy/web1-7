@@ -1,1 +1,28 @@
 
+.box{
+  background-color: red;
+  color: black;
+  width: 240px;
+  height: 80px;
+  margin: 5px;
+  float: left;
+  overflow: hidden;
+}
+
+header{
+  background-color:
+    position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: +1;
+}
+
+aside{
+  background-color: blue;
+  width: 200px;
+  float: right;
+  position: relative;
+  top: 20px;
+  right: 10px;
+}
